@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PJT</string>
+    <string name="flash">Toggle flash</string>
+    <string name="flip_camera">Flip camera</string>
+    <string name="ratio">16:9</string>
+    <string name="capture_image">Capture image</string>
+    <string name="_16_9">16:9</string>
+    <string name="welcome">Welcome to Tickefy.\nPlease scan your face to enter</string>
+</resources>
