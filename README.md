@@ -30,6 +30,7 @@ This Android application is the **entry-point UI** for the [Tickefy](https://git
 ## 🚀 How to Run / Test the App
 
 > ⚠️ **Important**
+> 
 > This repository is tightly-coupled with the [tickefy](https://github.com/Assiminee/Tickefy) eco-system.
 > In order to run the system, start by cloning this repository:
 > ```bash
